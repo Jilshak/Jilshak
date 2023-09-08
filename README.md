@@ -1,16 +1,16 @@
 ![MasterHead](https://i.postimg.cc/SxmwTS0t/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Muhammed Jilshak</h1>
-<h3 align="left">A Frontend Developer from India, driven by a passion for crafting beautiful and intuitive user interfaces.</h3>
+<h3 align="left">Full stack developer who is passionate about creating scalable and reliable software.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jilshak&label=Profile%20views&color=0e75b6&style=flat" alt="jilshak" /> </p>
 
 
-- 🔭 I’m currently working on [Netflix-Clone](https://github.com/Jilshak/netflix-clone.git)
+- 🔭 I’m currently working on [Brototype-Student-Management-System](https://github.com/Jilshak/Brototype-Student-Management-System.git)
 
-- 🌱 I’m currently learning **react, Angular**
+- 🌱 I’m currently learning **NEXT.JS, Angular**
 
-- 💬 Ask me about **react, JavaScript, Python, MongoDB, NodeJS**
+- 💬 Ask me about **React, Redux JavaScript, Python, PostgreSQL, Django, Django-Rest-Framework**
 
 - 📫 How to reach me **mohd.jilshak@gmail.com**
 
